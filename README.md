@@ -31,3 +31,6 @@ Trained with 3 different models: Autoencoder, ANN, 1D-CNN
 <p align="left">
   <img src="./resources/Results.jpg" width="750" title="Design">
 </p>
+
+
+We compared the different sampling techniques with model architectures such as ANN, CNN, and auto encoders. We found that CNN performs overall better than ANN on most resampling methods except cluster centroids. We also find that for undersampling, performance: Tomek > random > cc and for oversampling, performance: random > smote > adasyn and for overall performance: Tomek > over random > smote > adasyn > under random > cc. The best model for detecting as much fraud should be cc on CNN and the best model for overall performance should be Tomek.
