@@ -1,4 +1,4 @@
-# DL
+# CREDIT CARD FRAUD DETECTION WITH IMBALANCED CLASSIFICATION APPROACHES
 This is for Introduction to Deep Learning Systems Course CSCI-GA 3033
 
 ## How to run this code
@@ -28,4 +28,6 @@ Trained with 3 different models: Autoencoder, ANN, 1D-CNN
 
 ## Results
 
-
+<p align="left">
+  <img src="./resources/Results.jpg" width="750" title="Design">
+</p>
